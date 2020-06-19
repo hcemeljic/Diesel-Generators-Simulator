@@ -1,4 +1,4 @@
-# diesel_generators
+# Python simulator for virtually running Diesel generator engines on offshore drilling rigs
 
 Model for virtually running diesel generator engines on offshore drilling rigs under different operational parameters.
 
